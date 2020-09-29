@@ -12,3 +12,6 @@ Afterwards, fitting a TruncatedSVD from sklearn.decomposition with two labels, a
 We fitted multiple models to achieve our objective and the best model was selected after getting the evaluation metrics. 
 
 After getting the predictions regarding the sentiment, a confusion matrix was plotted. Using the same predictions, the importance of words with both negative and positive sentiment were analysed and the first 20 words were plotted for both labels
+
+
+This project was for learning purposes only and is taken from: https://harrisonjansma.com/apple
